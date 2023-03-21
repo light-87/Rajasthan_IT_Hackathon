@@ -1,4 +1,4 @@
-# OneQR :
+# OneQR By Team Pheonix:
 
 A supply chain for the safe distribution of products using Blockchain and AI.
 
