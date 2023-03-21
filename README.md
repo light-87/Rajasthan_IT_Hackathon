@@ -4,7 +4,7 @@ A supply chain for the safe distribution of products using Blockchain and AI.
 
 ## ⏯️ Explanation + Demo Video
 
-<a href="https://vimeo.com/809993698"></a>
+<a href="https://vimeo.com/809993698">Demo Video Link</a>
 
 
 ## ✨ Motivation
